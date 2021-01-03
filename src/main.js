@@ -1,6 +1,9 @@
 import Vue from 'vue'
 import App from './App.vue'
 
+// Bulma import
+require('@/assets/main.scss')
+
 Vue.config.productionTip = false
 
 new Vue({
